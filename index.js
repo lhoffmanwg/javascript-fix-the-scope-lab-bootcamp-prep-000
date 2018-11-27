@@ -1,4 +1,4 @@
 
 function myAnimal() {
-  
+  return animal;
 }
