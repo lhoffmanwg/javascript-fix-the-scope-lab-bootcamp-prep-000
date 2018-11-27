@@ -8,3 +8,7 @@ function yourAnimal() {
   var animal = "cat";
   return animal;
 }
+
+function add2(n) {
+  n+2;
+}
